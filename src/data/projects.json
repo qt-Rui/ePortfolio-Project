@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Algorithm and Data Structure Enhancement",
+        "slug": "algorithm-and-data-structure",
+        "description": "A Python Dash/Plotly dashboard demonstrating with a better data structure and algorithm that will allow for quicker searches and better efficiency",
+        "original": "/artifacts/project1/Algorithms_and_Data_Structure_Original.zip",
+        "enhanced": "/artifacts/project1/Algorithms_and_Data_Structure_Enhancement.zip",
+        "narrative": "/pages/narratives/Project1Narrative",
+        "narrativeRoute": "/pages/narratives/Project1Narrative"
+    },
+    {
+        "title": "Software Design and Engineering",
+        "slug": "software-design-and-engineering",
+        "description": "A mobile inventory management app for Android built with React Native, Expo, and PostgreSQL",
+        "original": "/artifacts/project2/Software_Design_and_Engineering_Original.zip",
+        "enhanced": "/artifacts/project2/Software_Design_and_Engineering_Enhanced.zip",
+        "narrative": "/artifacts/project2/narrative.docx",
+        "narrativeRoute":"/pages/narratives/Project2Narrative"
+    },
+    {
+        "title": "Database Enhancement",
+        "slug": "database-enhancement",
+        "description": "A basic Java application that handles contact list information securely with a database implemented",
+        "original": "/artifacts/project3/Database_Original.zip",
+        "enhanced": "/artifacts/project3/Database_Enhanced.zip",
+        "narrative": "/artifacts/project3/narrative.docx",
+        "narrativeRoute":"/pages/narratives/Project3Narrative"
+    }
+]
